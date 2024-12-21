@@ -1,1 +1,8 @@
-# golang
+# <%= projectName %>
+
+- Build
+
+```sh
+make build
+```
+

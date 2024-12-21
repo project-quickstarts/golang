@@ -1,0 +1,13 @@
+
+{
+  "name": "go-empty",
+  "description": "Go Empty Project",
+  "initParams": [
+    {
+      "name": "namespace",
+      "message": "What is your namespace?",
+      "type": "input",
+      "default": ""
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# Build directories
+bin
+
+# Environment
+.env
+.env*.local
+
+# Output of `go build`, `go run`, and similar commands
+*.out
+
+# IDE and editor files
+*.swp
+*~
+
+# Logs and debug files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
