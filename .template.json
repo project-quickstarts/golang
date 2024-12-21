@@ -6,7 +6,7 @@
       "name": "namespace",
       "message": "What is your namespace?",
       "type": "input",
-      "default": ""
+      "default": "github.com/username"
     }
   ]
 }
